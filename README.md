@@ -1,4 +1,4 @@
-# World-Cup-2022
+# World Cup 2022
 A Data Analysis project on the Biggest Sporting Event in the world - FIFA World Cup
 In this project, we will be analysing the football players to form the dream team as well as predict the winner for the 2022 World Cup. 
 
